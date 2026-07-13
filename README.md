@@ -59,6 +59,19 @@ Me chamo Gabriell Manssur Girotto, tenho 19 anos e sou natural de São paulo. At
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+<div align="center">
+
+<p align="center">
+  <img src="assets/hearts.jpg" width="200px" height="100px" alt="Shy Cat" />
+</p>
 
 <br/>
 <br/>
