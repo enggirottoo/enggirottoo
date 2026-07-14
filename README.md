@@ -1,4 +1,4 @@
-# 👾Gabriell Girotto
+# Gabriell Girotto
 
 **`Estudante de Engenharia de Software´**
 
