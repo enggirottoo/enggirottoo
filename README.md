@@ -68,7 +68,11 @@ Me chamo Gabriell Manssur Girotto, tenho 19 anos e sou natural de São paulo. At
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
 </picture>
----
+<br/><br/><br/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=enggirottoo&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://streak-stats.demolab.com?user=enggirottoo&theme=dark&hide_border=true)
+ 
 
 <br/>
 <br/>
