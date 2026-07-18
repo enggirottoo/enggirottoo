@@ -1,77 +1,99 @@
-# Gabriell Girotto
+# Hi there! 👋 I'm Gabriel
 
-**`Estudante de Engenharia de Software´**
-
-Me chamo Gabriell Manssur Girotto, tenho 19 anos e sou natural de São paulo. Atualmente, estou cursando Engenharia de Software na Unicesumar. Sou apaixonado por tecnologia, desenvolvimento de software e automação de processos. Tenho experiência com linguagens como Python, Java e C++, além de estar constantemente buscando aprender novas tecnologias e aprimorar minhas habilidades na área de desenvolvimento.
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Backend+Developer;Python+%7C+Java+%7C+SQL;Future+Software+Engineer+in+Germany+🇩🇪" />
 
 ---
 
-###  Linguagens e Tecnologias
+## 👨‍💻 About Me
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
+🎓 Software Engineering Student
 
+💻 Passionate about Backend Development
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+🚀 Learning every day to become a Software Engineer
 
-<br/><br/>
-
----
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
-</picture>
-<br/><br/>
+🌍 Goal: Build an international career in Germany
 
 ---
 
-<br/>
-<br/>
+## 🛠 Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- Software Engineering
+- Python
+- Java
+- SQL
+- Docker
+- REST APIs
+- Clean Code
+- Data Structures
+
+---
+
+## 🚀 Featured Projects
+
+🔹 Phoenix Automation Tool
+
+🔹 REST API
+
+🔹 Task Manager
+
+🔹 Inventory System
+
+🔹 Portfolio Website
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=enggirottoo&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=enggirottoo&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=enggirottoo&layout=compact&theme=tokyonight)
+
+---
+
+## 🌎 Languages
+
+🇧🇷 Portuguese — Native
+
+🇺🇸 English — Learning
+
+🇩🇪 German — Learning
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriell-girotto-51b230409?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/enggirottoo)
+
+---
+
+⭐ Thanks for visiting my profile!
 
