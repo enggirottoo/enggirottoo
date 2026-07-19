@@ -69,11 +69,11 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=enggirottoo&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=enggirottoo&show_icons=true&theme=dark)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=enggirottoo&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=enggirottoo&theme=dark)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=enggirottoo&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=enggirottoo&layout=compact&theme=dark)
 
 ---
 
